@@ -2,6 +2,8 @@
 # About Me
 I'm Jeff Lesser, a Bouder, CO native, CEO of Align Investing, and a product / marketing specialist who loves fly fishing, bikes, snowboarding, beer, whiskey, food, tattoos, music, and technology.
 
+* * *
+
 # Experience
 ## Align Investing
 CEO and Co-Founder; 2018-Present
@@ -16,6 +18,8 @@ Marketing Manager; 2012-2014
 Marketing Manager; 2008-2011, 2012
 
 You can learn more about my work experience on my [LinkedIn profile](https://www.linkedin.com/in/jefflesser/).
+
+* * *
 
 # Contact Me
 You can email me at [jefflesser@gmail.com](mailto:jefflesser@gmail.com)
