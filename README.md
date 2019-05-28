@@ -1,3 +1,4 @@
+![Jeff Lesser](/headshot.jpeg "Jeff Lesser")
 # About Me
 I'm Jeff Lesser, a Bouder, CO native, CEO of Align Investing, and a product / marketing specialist who loves fly fishing, bikes, snowboarding, beer, whiskey, food, tattoos, music, and technology.
 
