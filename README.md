@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# About Me
+I'm Jeff Lesser, CEO of Align Investing and a product and marketing specialist who loves bikes, snowboarding, beer, whiskey, food, tattoos, music, and technology.
 
-You can use the [editor on GitHub](https://github.com/jefflesser/jefflesser/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Experience
+## Align Investing
+2018-Present
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Twitter
+2014-2018
 
-### Markdown
+## Gnip
+2012-2014
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##
+Giantnerd
+2008-2011, 2012
 
-```markdown
-Syntax highlighted code block
+You can learn more about my work experience on my [LinkedIn profile](https://www.linkedin.com/in/jefflesser/).
 
-# Header 1
-## Header 2
-### Header 3
+# Contact Me
+You can email me at [jefflesser@gmail.com](mailto:jefflesser@gmail.com)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jefflesser/jefflesser/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can also find me on social media here:
+[Twitter](https://twitter.com/jefflesser)
+[Instagram](https://instagram.com/jefflesser)
+[Facebook](https://facebook.com/jefflesser)
