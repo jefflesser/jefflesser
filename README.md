@@ -3,17 +3,16 @@ I'm Jeff Lesser, CEO of Align Investing and a product and marketing specialist w
 
 # Experience
 ## Align Investing
-2018-Present
+CEO and Co-Founder; 2018-Present
 
 ## Twitter
-2014-2018
+Senior Product Marketing Manager; 2014-2018
 
 ## Gnip
-2012-2014
+Marketing Manager; 2012-2014
 
-##
-Giantnerd
-2008-2011, 2012
+## Giantnerd
+Marketing Manager; 2008-2011, 2012
 
 You can learn more about my work experience on my [LinkedIn profile](https://www.linkedin.com/in/jefflesser/).
 
