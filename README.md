@@ -20,6 +20,9 @@ You can learn more about my work experience on my [LinkedIn profile](https://www
 You can email me at [jefflesser@gmail.com](mailto:jefflesser@gmail.com)
 
 You can also find me on social media here:
+
 [Twitter](https://twitter.com/jefflesser)
+
 [Instagram](https://instagram.com/jefflesser)
+
 [Facebook](https://facebook.com/jefflesser)
