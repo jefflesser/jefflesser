@@ -1,5 +1,5 @@
 # About Me
-I'm Jeff Lesser, CEO of Align Investing and a product and marketing specialist who loves bikes, snowboarding, beer, whiskey, food, tattoos, music, and technology.
+I'm Jeff Lesser, CEO of Align Investing and a product and marketing specialist who loves fly fishing, bikes, snowboarding, beer, whiskey, food, tattoos, music, and technology.
 
 # Experience
 ## Align Investing
